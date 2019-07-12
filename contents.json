@@ -1,0 +1,437 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=nl.ascigroningen.ascistickers",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "asci_stickerpack_1",
+      "name": "Classics",
+      "publisher": "ASCI MediaCie",
+      "tray_image_file": "tray.png",
+      "publisher_email":"mediacie@ascigroningen.nl",
+      "publisher_website": "https://www.ascigroningen.nl",
+      "privacy_policy_website": "https://www.ascigroningen.nl/privacy",
+      "license_agreement_website": "https://www.ascigroningen.nl",
+      "stickers": [
+        {
+          "image_file": "asci.webp",
+          "emojis": ["💙"]
+        },
+        {
+          "image_file": "alarm.webp",
+          "emojis": ["⏰", "📢"]
+        },
+        {
+          "image_file": "sticker.webp",
+          "emojis": ["📄"]
+        },
+        {
+          "image_file": "asci_word.webp"
+        },
+        {
+          "image_file": "hoog.webp"
+        },
+        {
+          "image_file": "accie.webp",
+          "emojis": ["🏃‍♀️", "🏃‍♂️"]
+        },
+        {
+          "image_file": "competicie.webp"
+        },
+        {
+          "image_file": "liftwedstrijd.webp"
+        },
+        {
+          "image_file": "introcie.webp",
+          "emojis": ["🎒", "🏕️"]
+        },
+        {
+          "image_file": "mediacie.webp",
+          "emojis": ["🎒", "✈️"]
+        },
+        {
+          "image_file": "reiscie.webp",
+          "emojis": ["🎒", "✈️"]
+        },
+        {
+          "image_file": "liften_up.webp",
+          "emojis": ["👍"]
+        },
+        {
+          "image_file": "liften_down.webp",
+          "emojis": ["👎️"]
+        },
+        {
+          "image_file": "lissabon.webp",
+          "emojis": ["🇵🇹", "✈️"]
+        },
+        {
+          "image_file": "spamalert.webp",
+          "emojis": ["🎒", "✉️️"]
+        },
+        {
+          "image_file": "mok.webp",
+          "emojis": ["☕️"]
+        },
+        {
+          "image_file": "zonnebril.webp",
+          "emojis": ["🕶"]
+        },
+        {
+          "image_file": "speelkaart.webp",
+          "emojis": ["🃏"]
+        },
+        {
+          "image_file": "pet.webp",
+          "emojis": ["🧢"]
+        },
+        {
+          "image_file": "muismat.webp",
+          "emojis": ["🖱"]
+        },
+        {
+          "image_file": "kerstbal.webp",
+          "emojis": ["🎄"]
+        },
+        {
+          "image_file": "licht.webp",
+          "emojis": ["💡"]
+        },
+        {
+          "image_file": "afmelden.webp",
+          "emojis": ["❌"]
+        },
+        {
+          "image_file": "touw.webp",
+          "emojis": ["📎"]
+        },
+        {
+          "image_file": "komnaardeborrel.webp",
+          "emojis": ["🎸"]
+        },
+        {
+          "image_file": "quote.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "asci_stickerpack_memes",
+      "name": "Memes",
+      "publisher": "ASCI MediaCie",
+      "tray_image_file": "tray.png",
+      "publisher_email":"mediacie@ascigroningen.nl",
+      "publisher_website": "https://www.ascigroningen.nl",
+      "privacy_policy_website": "https://www.ascigroningen.nl/privacy",
+      "license_agreement_website": "https://www.ascigroningen.nl",
+      "stickers": [
+        {
+          "image_file": "lotje.webp",
+          "emojis": ["🖥"]
+        },
+        {
+          "image_file": "younes.webp",
+          "emojis": ["🖥"]
+        },
+        {
+          "image_file": "lotjeyounes.webp",
+          "emojis": ["🖥"]
+        },
+        {
+          "image_file": "elf4a.webp",
+          "emojis": ["🖥"]
+        },
+        {
+          "image_file": "mariekachu.webp",
+          "emojis": ["🖥"]
+        },
+        {
+          "image_file": "elfissa.webp",
+          "emojis": ["🥳"]
+        },
+        {
+          "image_file": "zwoeleman.webp"
+        },
+        {
+          "image_file": "logo_1april.webp"
+        },
+        {
+          "image_file": "komkommer.webp",
+          "emojis": ["🥒"]
+        },
+        {
+          "image_file": "lidl.webp",
+          "emojis": ["🛍"]
+        },
+        {
+          "image_file": "bakkeveen.webp",
+          "emojis": ["⛺️", "🏕"]
+        },
+        {
+          "image_file": "trein.webp"
+        },
+        {
+          "image_file": "vertraging.webp"
+        },
+        {
+          "image_file": "beilen.webp"
+        },
+        {
+          "image_file": "doerak.webp"
+        },
+        {
+          "image_file": "lalala.webp"
+        },
+        {
+          "image_file": "gehaktbal.webp"
+        },
+        {
+          "image_file": "pollepel.webp"
+        },
+        {
+          "image_file": "bouwlamp.webp"
+        },
+        {
+          "image_file": "campfire.webp"
+        },
+        {
+          "image_file": "afmelden_new.webp"
+        },
+        {
+          "image_file": "bsod.webp",
+          "emojis": ["💻"]
+        },
+        {
+          "image_file": "python.webp",
+          "emojis": ["🃏"]
+        },
+        {
+          "image_file": "prolog.webp",
+          "emojis": ["🆘"]
+        },
+        {
+          "image_file": "build_failing.webp",
+          "emojis": ["❌"]
+        },
+        {
+          "image_file": "sourcecode.webp",
+          "emojis": ["📄"]
+        },
+        {
+          "image_file": "terminal.webp",
+          "emojis": ["🖥"]
+        },
+        {
+          "image_file": "3310.webp"
+        },
+        {
+          "image_file": "bikinibottom.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "asci_stickerpack_2",
+      "name": "Food & Drinks",
+      "publisher": "ASCI MediaCie",
+      "tray_image_file": "tray.png",
+      "publisher_email":"mediacie@ascigroningen.nl",
+      "publisher_website": "https://www.ascigroningen.nl",
+      "privacy_policy_website": "https://www.ascigroningen.nl/privacy",
+      "license_agreement_website": "https://www.ascigroningen.nl",
+      "stickers": [
+        {
+          "image_file": "autokoffie.webp"
+        },
+        {
+          "image_file": "cbar.webp"
+        },
+        {
+          "image_file": "ice.webp",
+          "emojis": ["❄️"]
+        },
+        {
+          "image_file": "champagne.webp",
+          "emojis": ["🍾"]
+        },
+        {
+          "image_file": "captain.webp",
+          "emojis": ["🍾"]
+        },
+        {
+          "image_file": "anytimer.webp",
+          "emojis" : ["🍺"]
+        },
+        {
+          "image_file": "adt.webp",
+          "emojis" : ["🍺"]
+        },
+        {
+          "image_file": "mex.webp",
+          "emojis" : ["🎲"]
+        },
+        {
+          "image_file": "rietadt.webp",
+          "emojis" : ["🍺"]
+        },
+        {
+          "image_file": "pitcher.webp",
+          "emojis" : ["🍺"]
+        },
+        {
+          "image_file": "dorst.webp",
+          "emojis" : ["🍺"]
+        },
+        {
+          "image_file": "bucket.webp"
+        },
+        {
+          "image_file": "deklok.webp",
+          "emojis": ["🍺"]
+        },
+        {
+          "image_file": "carapils.webp",
+          "emojis": ["🍺"]
+        },
+        {
+          "image_file": "dominos.webp",
+          "emojis": ["🍕"]
+        },
+        {
+          "image_file": "soepje.webp",
+          "emojis" : ["🍺"]
+        },
+        {
+          "image_file": "dogs.webp"
+        },
+        {
+          "image_file": "warhol.webp"
+        },
+        {
+          "image_file": "sunny.webp"
+        },
+        {
+          "image_file": "goldenfust.webp"
+        },
+        {
+          "image_file": "tapperij.webp"
+        },
+        {
+          "image_file": "negende.webp"
+        },
+        {
+          "image_file": "gat.webp"
+        },
+        {
+          "image_file": "bardorst.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "asci_stickerpack_3",
+      "name": "Events & Meetings",
+      "publisher": "ASCI MediaCie",
+      "tray_image_file": "tray.png",
+      "publisher_email":"mediacie@ascigroningen.nl",
+      "publisher_website": "https://www.ascigroningen.nl",
+      "privacy_policy_website": "https://www.ascigroningen.nl/privacy",
+      "license_agreement_website": "https://www.ascigroningen.nl",
+      "stickers": [
+        {
+          "image_file": "academie.webp",
+          "emojis": ["🎸"]
+        },
+        {
+          "image_file": "harmokantine.webp"
+        },
+        {
+          "image_file": "harmo2.webp"
+        },
+        {
+          "image_file": "00.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "01.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "datumprikker.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "mac-Cmd.webp"
+        },
+        {
+          "image_file": "mac-Alt.webp"
+        },
+        {
+          "image_file": "mac-esc.webp"
+        },
+        {
+          "image_file": "mac-C.webp"
+        },
+        {
+          "image_file": "mac-V.webp"
+        },
+        {
+          "image_file": "mac-Del.webp"
+        },
+        {
+          "image_file": "Win-Alt.webp"
+        },
+        {
+          "image_file": "Win-C.webp"
+        },
+        {
+          "image_file": "Win-Ctrl.webp"
+        },
+        {
+          "image_file": "Win-Del.webp"
+        },
+        {
+          "image_file": "Win-Esc.webp"
+        },
+        {
+          "image_file": "Win-Start.webp"
+        },
+        {
+          "image_file": "Win-V.webp"
+        }
+      ]
+    }
+  ]
+}
