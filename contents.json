@@ -3,7 +3,7 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "classics",
+      "identifier": "asci_stickerpack_1",
       "name": "Classics",
       "publisher": "ASCI MediaCie",
       "tray_image_file": "tray.png",
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "identifier": "memes",
+      "identifier": "asci_stickerpack_memes",
       "name": "Memes",
       "publisher": "ASCI MediaCie",
       "tray_image_file": "tray.png",
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "identifier": "drinks",
+      "identifier": "asci_stickerpack_2",
       "name": "Food & Drinks",
       "publisher": "ASCI MediaCie",
       "tray_image_file": "tray.png",
@@ -379,7 +379,7 @@
       ]
     },
     {
-      "identifier": "meetings",
+      "identifier": "asci_stickerpack_3",
       "name": "Events & Meetings",
       "publisher": "ASCI MediaCie",
       "tray_image_file": "tray.png",
