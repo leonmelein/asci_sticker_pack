@@ -4,7 +4,7 @@ _Het Sticker Pack voor ASCI, door ASCI_
 Welkom bij het ASCI Sticker Pack! Alle stickers die je kent, zijn in deze repo aanwezig. Deze is gelinkt als _git submodule_ aan de Android app, dus die krijgt altijd de laatste stickers binnen. 
 
 ## Een sticker voorstellen
-Als je een nieuwe sticker wilt voorstellen, maar deze niet zelf kan ontwerpen, geen probleem! Vraag erom via een [Issue](https://github.com/leonmelein/asci_sticker_pack/issues/new.
+Als je een nieuwe sticker wilt voorstellen, maar deze niet zelf kan ontwerpen, geen probleem! Vraag erom via een [Issue](https://github.com/leonmelein/asci_sticker_pack/issues/new).
 
 ## Een sticker toevoegen
 Natuurlijk kan ik het intekenen van verenigingsbegrippen niet alleen af. Alle hulp is welkom, en daarom kun je nu direct contributen aan het Sticker Pack via een pull request.
