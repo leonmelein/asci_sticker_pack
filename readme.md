@@ -1,4 +1,4 @@
-# ASCI Sticker Pack
+# ![ASCI](https://github.com/leonmelein/asci_sticker_pack/raw/master/logo.png) ASCI Sticker Pack
 _Het Sticker Pack voor ASCI, door ASCI_
 
 Welkom bij het ASCI Sticker Pack! Alle stickers die je kent, zijn in deze repo aanwezig. Deze is gelinkt als _git submodule_ aan de Android app, dus die krijgt altijd de laatste stickers binnen. 
