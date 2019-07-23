@@ -3,7 +3,7 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "asci_stickerpack_1",
+      "identifier": "classics",
       "name": "Classics",
       "publisher": "ASCI MediaCie",
       "tray_image_file": "tray.png",
@@ -25,32 +25,40 @@
           "emojis": ["📄"]
         },
         {
-          "image_file": "asci_word.webp"
+          "image_file": "asci_word.webp",
+          "emojis": ["💙"]
         },
         {
-          "image_file": "hoog.webp"
+          "image_file": "hoog.webp",
+          "emojis": ["💙", "🆙", "⬆️"]
         },
         {
           "image_file": "accie.webp",
-          "emojis": ["🏃‍♀️", "🏃‍♂️"]
+          "emojis": ["🏃‍♀️", "🏃‍♂️", "🍻"]
         },
         {
-          "image_file": "competicie.webp"
+          "image_file": "almanakcie.webp",
+          "emojis": ["📚", "📝"]
         },
         {
-          "image_file": "liftwedstrijd.webp"
+          "image_file": "competicie.webp",
+          "emojis": ["🏆", "🥇", "🏅"]
+        },
+        {
+          "image_file": "liftwedstrijd.webp",
+          "emojis": ["👍🏻", "🏕", "🚙"]
         },
         {
           "image_file": "introcie.webp",
-          "emojis": ["🎒", "🏕️"]
+          "emojis": ["🎒", "🏕️", "👶"]
         },
         {
           "image_file": "mediacie.webp",
-          "emojis": ["🎒", "✈️"]
+          "emojis": ["📝", "📰", "📸"]
         },
         {
           "image_file": "reiscie.webp",
-          "emojis": ["🎒", "✈️"]
+          "emojis": ["🎒", "✈️", "🌍"]
         },
         {
           "image_file": "liften_up.webp",
@@ -66,55 +74,60 @@
         },
         {
           "image_file": "spamalert.webp",
-          "emojis": ["🎒", "✉️️"]
+          "emojis": ["🚮", "✉️️", "🗑"]
         },
         {
           "image_file": "mok.webp",
-          "emojis": ["☕️"]
+          "emojis": ["☕️", "💙"]
         },
         {
           "image_file": "zonnebril.webp",
-          "emojis": ["🕶"]
+          "emojis": ["🕶", "💙"]
         },
         {
           "image_file": "speelkaart.webp",
-          "emojis": ["🃏"]
+          "emojis": ["🃏", "💙", "♠️"]
         },
         {
           "image_file": "pet.webp",
-          "emojis": ["🧢"]
+          "emojis": ["🧢", "💙"]
         },
         {
           "image_file": "muismat.webp",
-          "emojis": ["🖱"]
+          "emojis": ["🖱", "💙"]
         },
         {
           "image_file": "kerstbal.webp",
-          "emojis": ["🎄"]
+          "emojis": ["🎄", "💙", "🎅🏻"]
         },
         {
           "image_file": "licht.webp",
-          "emojis": ["💡"]
+          "emojis": ["💡", "🚲"]
         },
         {
           "image_file": "afmelden.webp",
-          "emojis": ["❌"]
+          "emojis": ["❌", "🌐"]
         },
         {
           "image_file": "touw.webp",
-          "emojis": ["📎"]
+          "emojis": ["📎", "🧵"]
         },
         {
           "image_file": "komnaardeborrel.webp",
-          "emojis": ["🎸"]
+          "emojis": ["🍺", "🍻", "💙"]
         },
         {
-          "image_file": "quote.webp"
+          "image_file": "quote.webp",
+          "emojis": ["💬", "📝"]
+        },
+        {
+          "image_file": "beflikkerd.webp",
+          "emojis": ["😡", "🤬"]
         }
       ]
     },
     {
-      "identifier": "asci_stickerpack_memes",
+      "identifier": "memes",
       "name": "Memes",
       "publisher": "ASCI MediaCie",
       "tray_image_file": "tray.png",
@@ -125,33 +138,39 @@
       "stickers": [
         {
           "image_file": "lotje.webp",
-          "emojis": ["🖥"]
+          "emojis": ["🌝"]
         },
         {
           "image_file": "younes.webp",
-          "emojis": ["🖥"]
+          "emojis": ["🌚"]
         },
         {
           "image_file": "lotjeyounes.webp",
-          "emojis": ["🖥"]
+          "emojis": ["🌝", "🌚"]
         },
         {
           "image_file": "elf4a.webp",
-          "emojis": ["🖥"]
+          "emojis": ["🎄", "🎅🏻"]
         },
         {
           "image_file": "mariekachu.webp",
-          "emojis": ["🖥"]
+          "emojis": ["😻"]
         },
         {
           "image_file": "elfissa.webp",
           "emojis": ["🥳"]
         },
         {
-          "image_file": "zwoeleman.webp"
+          "image_file": "dionroelvink.webp",
+          "emojis": ["🏝", "☀️"]
         },
         {
-          "image_file": "logo_1april.webp"
+          "image_file": "zwoeleman.webp",
+          "emojis": ["🏜", "🇸🇾", "🎵"] 
+        },
+        {
+          "image_file": "logo_1april.webp",
+          "emojis": ["🍆", "💙"]
         },
         {
           "image_file": "komkommer.webp",
@@ -159,53 +178,63 @@
         },
         {
           "image_file": "lidl.webp",
-          "emojis": ["🛍"]
+          "emojis": ["🛍", "🛒"]
         },
         {
           "image_file": "bakkeveen.webp",
           "emojis": ["⛺️", "🏕"]
         },
         {
-          "image_file": "trein.webp"
+          "image_file": "trein.webp",
+          "emojis": ["🚂", "🚄", "🚇"]
         },
         {
-          "image_file": "vertraging.webp"
+          "image_file": "vertraging.webp",
+          "emojis": ["⏱"]
         },
         {
-          "image_file": "beilen.webp"
+          "image_file": "beilen.webp",
+          "emojis": ["⛺️", "🏕"]
         },
         {
-          "image_file": "doerak.webp"
+          "image_file": "doerak.webp",
+          "emojis": ["😸", "😻", "🐈"]
         },
         {
-          "image_file": "lalala.webp"
+          "image_file": "lalala.webp",
+          "emojis": ["🎤", "🎵", "🥩"]
         },
         {
-          "image_file": "gehaktbal.webp"
+          "image_file": "gehaktbal.webp",
+          "emojis": ["🎤", "🎵", "🥩"]
         },
         {
-          "image_file": "pollepel.webp"
+          "image_file": "pollepel.webp",
+          "emojis": ["🥄"]
         },
         {
-          "image_file": "bouwlamp.webp"
+          "image_file": "bouwlamp.webp",
+          "emojis": ["💡"]
         },
         {
-          "image_file": "campfire.webp"
+          "image_file": "campfire.webp",
+          "emojis": ["🔥"]
         },
         {
-          "image_file": "afmelden_new.webp"
+          "image_file": "afmelden_new.webp",
+          "emojis": ["❌", "🌐"]
         },
         {
           "image_file": "bsod.webp",
-          "emojis": ["💻"]
+          "emojis": ["💻", "❌"]
         },
         {
           "image_file": "python.webp",
-          "emojis": ["🃏"]
+          "emojis": ["🃏", "💻"]
         },
         {
           "image_file": "prolog.webp",
-          "emojis": ["🆘"]
+          "emojis": ["🆘", "💻"]
         },
         {
           "image_file": "build_failing.webp",
@@ -217,18 +246,20 @@
         },
         {
           "image_file": "terminal.webp",
-          "emojis": ["🖥"]
+          "emojis": ["🖥", "💻"]
         },
         {
-          "image_file": "3310.webp"
+          "image_file": "3310.webp",
+          "emojis": ["📞", "📱", "☎️"]
         },
         {
-          "image_file": "bikinibottom.webp"
+          "image_file": "dionverlosser.webp",
+          "emojis": ["🍺", "🍻"]
         }
       ]
     },
     {
-      "identifier": "asci_stickerpack_2",
+      "identifier": "drinks",
       "name": "Food & Drinks",
       "publisher": "ASCI MediaCie",
       "tray_image_file": "tray.png",
@@ -238,14 +269,16 @@
       "license_agreement_website": "https://www.ascigroningen.nl",
       "stickers": [
         {
-          "image_file": "autokoffie.webp"
+          "image_file": "autokoffie.webp",
+          "emojis": ["☕️"]
         },
         {
-          "image_file": "cbar.webp"
+          "image_file": "cbar.webp",
+          "emojis": ["☕️"]
         },
         {
           "image_file": "ice.webp",
-          "emojis": ["❄️"]
+          "emojis": ["❄️", "🍾"]
         },
         {
           "image_file": "champagne.webp",
@@ -253,19 +286,23 @@
         },
         {
           "image_file": "captain.webp",
-          "emojis": ["🍾"]
+          "emojis": ["🍾", "🥃"]
         },
         {
           "image_file": "anytimer.webp",
-          "emojis" : ["🍺"]
+          "emojis": ["🍺"]
         },
         {
           "image_file": "adt.webp",
-          "emojis" : ["🍺"]
+          "emojis": ["🍺", "⬇"]
+        },
+        {
+          "image_file": "beerpong.webp",
+          "emojis": ["🍺", "🍻", "🏓"]
         },
         {
           "image_file": "mex.webp",
-          "emojis" : ["🎲"]
+          "emojis" : ["🎲", "💙"]
         },
         {
           "image_file": "rietadt.webp",
@@ -273,22 +310,31 @@
         },
         {
           "image_file": "pitcher.webp",
-          "emojis" : ["🍺"]
+          "emojis" : ["🍺", "🍻"]
         },
         {
-          "image_file": "dorst.webp",
-          "emojis" : ["🍺"]
+          "image_file": "kratdorst.webp",
+          "emojis" : ["🍺", "🍻"]
         },
         {
-          "image_file": "bucket.webp"
+          "image_file": "bucket.webp",
+          "emojis" : ["🍸", "💃", "🍹"]
         },
         {
           "image_file": "deklok.webp",
-          "emojis": ["🍺"]
+          "emojis": ["🍺", "🕐"]
         },
         {
           "image_file": "carapils.webp",
-          "emojis": ["🍺"]
+          "emojis": ["🍺", "🥫"]
+        },
+        {
+          "image_file": "fristi.webp",
+          "emojis": ["🍺", "🥤", "🥛"]
+        },
+        {
+          "image_file": "chocomel.webp",
+          "emojis": ["🍺", "🥤", "🥛"]
         },
         {
           "image_file": "dominos.webp",
@@ -296,36 +342,44 @@
         },
         {
           "image_file": "soepje.webp",
-          "emojis" : ["🍺"]
+          "emojis": ["🍺"]
         },
         {
-          "image_file": "dogs.webp"
+          "image_file": "dogs.webp",
+          "emojis": ["🐶", "🍺", "🍻"]
         },
         {
-          "image_file": "warhol.webp"
+          "image_file": "warhol.webp",
+          "emojis" : ["🍺", "💃"]
         },
         {
-          "image_file": "sunny.webp"
+          "image_file": "sunny.webp",
+          "emojis" : ["🍸", "💃", "🍹"]
         },
         {
-          "image_file": "goldenfust.webp"
+          "image_file": "goldenfust.webp",
+          "emojis" : ["🍺", "💃"]
         },
         {
-          "image_file": "tapperij.webp"
+          "image_file": "tapperij.webp",
+          "emojis" : ["🍺", "💃"]
         },
         {
-          "image_file": "negende.webp"
+          "image_file": "negende.webp",
+          "emojis" : ["🍺", "💃"]
         },
         {
-          "image_file": "gat.webp"
+          "image_file": "gat.webp",
+          "emojis" : ["🍺", "💃"]
         },
         {
-          "image_file": "bardorst.webp"
+          "image_file": "bardorst.webp",
+          "emojis" : ["🍺", "💃"]
         }
       ]
     },
     {
-      "identifier": "asci_stickerpack_3",
+      "identifier": "meetings",
       "name": "Events & Meetings",
       "publisher": "ASCI MediaCie",
       "tray_image_file": "tray.png",
@@ -335,101 +389,121 @@
       "license_agreement_website": "https://www.ascigroningen.nl",
       "stickers": [
         {
+          "image_file":  "duo.webp",
+          "emojis": ["💰", "💵", "💶"]
+        },
+        {
           "image_file": "academie.webp",
-          "emojis": ["🎸"]
+          "emojis": ["🏛", "🏫", "🎓"]
         },
         {
-          "image_file": "harmokantine.webp"
+          "image_file": "harmokantine.webp",
+          "emojis": ["🍞", "🥣", "☕️"]
         },
         {
-          "image_file": "harmo2.webp"
+          "image_file": "harmo2.webp",
+          "emojis": ["🏛", "🏫", "🎓"]
         },
         {
           "image_file": "00.webp",
-          "emojis": []
+          "emojis": ["🕛"]
         },
         {
           "image_file": "01.webp",
-          "emojis": []
+          "emojis": ["🕐"]
         },
         {
           "image_file": "02.webp",
-          "emojis": []
+          "emojis": ["🕑"]
         },
         {
           "image_file": "03.webp",
-          "emojis": []
+          "emojis": ["🕒"]
         },
         {
           "image_file": "04.webp",
-          "emojis": []
+          "emojis": ["🕓"]
         },
         {
           "image_file": "15.webp",
-          "emojis": []
+          "emojis": ["🕒"]
         },
         {
           "image_file": "20.webp",
-          "emojis": []
+          "emojis": ["🕗"]
         },
         {
           "image_file": "21.webp",
-          "emojis": []
+          "emojis": ["🕘"]
         },
         {
           "image_file": "22.webp",
-          "emojis": []
+          "emojis": ["🕙"]
         },
         {
           "image_file": "23.webp",
-          "emojis": []
+          "emojis": ["🕚"]
         },
         {
           "image_file": "30.webp",
-          "emojis": []
+          "emojis": ["🕧"]
         },
         {
           "image_file": "datumprikker.webp",
-          "emojis": []
+          "emojis": ["📅", "📌"]
         },
         {
-          "image_file": "mac-Cmd.webp"
+          "image_file": "mac-Cmd.webp",
+          "emojis": ["⌨️"]
         },
         {
-          "image_file": "mac-Alt.webp"
+          "image_file": "mac-Alt.webp",
+          "emojis": ["⌨️"]
+
         },
         {
-          "image_file": "mac-esc.webp"
+          "image_file": "mac-esc.webp",
+          "emojis": ["⌨️"]
         },
         {
-          "image_file": "mac-C.webp"
+          "image_file": "mac-C.webp",
+          "emojis": ["⌨️"]
         },
         {
-          "image_file": "mac-V.webp"
+          "image_file": "mac-V.webp",
+          "emojis": ["⌨️"]
         },
         {
-          "image_file": "mac-Del.webp"
+          "image_file": "mac-Del.webp",
+          "emojis": ["⌨️"]
         },
         {
-          "image_file": "Win-Alt.webp"
+          "image_file": "Win-Alt.webp",
+          "emojis": ["⌨️"]
         },
         {
-          "image_file": "Win-C.webp"
+          "image_file": "Win-C.webp",
+          "emojis": ["⌨️"]
         },
         {
-          "image_file": "Win-Ctrl.webp"
+          "image_file": "Win-Ctrl.webp",
+          "emojis": ["⌨️"]
         },
         {
-          "image_file": "Win-Del.webp"
+          "image_file": "Win-Del.webp",
+          "emojis": ["⌨️"]
         },
         {
-          "image_file": "Win-Esc.webp"
+          "image_file": "Win-Esc.webp",
+          "emojis": ["⌨️"]
         },
         {
-          "image_file": "Win-Start.webp"
+          "image_file": "Win-Start.webp",
+          "emojis": ["⌨️", "🏠"]
         },
         {
-          "image_file": "Win-V.webp"
+          "image_file": "Win-V.webp",
+          "emojis": ["⌨️", "📎"]
         }
       ]
     }
