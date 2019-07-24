@@ -453,6 +453,10 @@
           "emojis": ["📅", "📌"]
         },
         {
+          "image_file": "lingo.webp",
+          "emojis": ["🎾", "🔤"]
+        },
+        {
           "image_file": "mac-Cmd.webp",
           "emojis": ["⌨️"]
         },
