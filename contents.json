@@ -123,6 +123,10 @@
         {
           "image_file": "beflikkerd.webp",
           "emojis": ["😡", "🤬"]
+        },
+        {
+          "image_file": "waarisasci.webp",
+          "emojis": ["🔍", "🗺"]
         }
       ]
     },
