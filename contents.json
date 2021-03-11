@@ -7,6 +7,8 @@
       "name": "Classics",
       "publisher": "ASCI MediaCie",
       "tray_image_file": "tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
       "publisher_email":"mediacie@ascigroningen.nl",
       "publisher_website": "https://www.ascigroningen.nl",
       "privacy_policy_website": "https://www.ascigroningen.nl/privacy",
@@ -57,7 +59,7 @@
           "emojis": ["📝", "📰", "📸"]
         },
         {
-          "image_file": "reiscie.webp",
+          "image_file": "reiscie1920.webp",
           "emojis": ["🎒", "✈️", "🌍"]
         },
         {
@@ -69,8 +71,8 @@
           "emojis": ["👎️"]
         },
         {
-          "image_file": "lissabon.webp",
-          "emojis": ["🇵🇹", "✈️"]
+          "image_file": "praha.webp",
+          "emojis": ["🇨🇿", "✈️"]
         },
         {
           "image_file": "spamalert.webp",
@@ -127,6 +129,10 @@
         {
           "image_file": "waarisasci.webp",
           "emojis": ["🔍", "🗺"]
+        },
+        {
+          "image_file": "discord.webp",
+          "emojis": ["🎮"]
         }
       ]
     },
@@ -135,6 +141,8 @@
       "name": "Memes",
       "publisher": "ASCI MediaCie",
       "tray_image_file": "tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
       "publisher_email":"mediacie@ascigroningen.nl",
       "publisher_website": "https://www.ascigroningen.nl",
       "privacy_policy_website": "https://www.ascigroningen.nl/privacy",
@@ -181,7 +189,7 @@
           "emojis": ["🥒"]
         },
         {
-          "image_file": "lidl.webp",
+          "image_file": "6320.webp",
           "emojis": ["🛍", "🛒"]
         },
         {
@@ -258,7 +266,10 @@
         },
         {
           "image_file": "dionverlosser.webp",
-          "emojis": ["🍺", "🍻"]
+          "emojis": [
+            "🍺",
+            "🍻"
+          ]
         }
       ]
     },
@@ -267,6 +278,8 @@
       "name": "Food & Drinks",
       "publisher": "ASCI MediaCie",
       "tray_image_file": "tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
       "publisher_email":"mediacie@ascigroningen.nl",
       "publisher_website": "https://www.ascigroningen.nl",
       "privacy_policy_website": "https://www.ascigroningen.nl/privacy",
@@ -383,6 +396,10 @@
         {
           "image_file": "whatssoep.webp",
           "emojis" : ["🥣"]
+        },
+        {
+          "image_file": "thuisbezorgd.webp",
+          "emojis" : ["🍟"]
         }
       ]
     },
@@ -391,6 +408,8 @@
       "name": "Events & Meetings",
       "publisher": "ASCI MediaCie",
       "tray_image_file": "tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
       "publisher_email":"mediacie@ascigroningen.nl",
       "publisher_website": "https://www.ascigroningen.nl",
       "privacy_policy_website": "https://www.ascigroningen.nl/privacy",
@@ -461,8 +480,8 @@
           "emojis": ["📅", "📌"]
         },
         {
-          "image_file": "lingo.webp",
-          "emojis": ["🎾", "🔤"]
+          "image_file": "videochat.webp",
+          "emojis": ["🖥", "📹"]
         },
         {
           "image_file": "mac-Cmd.webp",
